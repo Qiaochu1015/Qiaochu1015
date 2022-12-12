@@ -51,13 +51,13 @@
   &emsp;
     <a href="#"><img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900.svg?&style=plastic&logo=amazonaws&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/blender%20-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/blender%20-%20F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Geeks for Geeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Figma" img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Figma" img src="https://img.shields.io/badge/figma%20-%20F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
