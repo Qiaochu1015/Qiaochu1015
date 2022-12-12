@@ -27,7 +27,7 @@
    </a>
 </p>
 
-### 👉 Frontend Development
+### 👉 UI Web Technologies
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -38,8 +38,8 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/angular/default.asp" target="_blank">
-    <img alt="AngularJS" src="https://img.shields.io/badge/Angular.JS%20-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white">
+  <a href="https://www.w3schools.com/react/default.asp" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=white">
   </a>	
 </p>
 
