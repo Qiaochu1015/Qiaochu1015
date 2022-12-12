@@ -2,7 +2,6 @@
 [![Gmail](https://img.shields.io/badge/-gracie.gee1015@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gracie.gee1015@gmail.com)
 [![Blog](https://img.shields.io/badge/-https://github.com/Qiaochu1015-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Qiaochu1015)
 
-<img align="center" alt="GIF" src="https://github.com/ruihanchen/Qiaochu1015/blob/main/gif3.gif" width="500"/>
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50>  About me
 
