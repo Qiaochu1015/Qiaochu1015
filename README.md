@@ -9,8 +9,6 @@
 - 🔭 &nbsp;Always learning new things` and I love using Software as a solution for every `Problem`.
 - 🤔 &nbsp;`Exploring new technologies` and `developing software solutions and quick hacks`.
 - 🎓 &nbsp;Graduated from `PARSONS SCHOOL OF DESIGN`, majoring in `Design and Technology`.
-- 💻 &nbsp;I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- ☕ &nbsp;I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 ## 🛠️ My Skills
 
@@ -53,13 +51,13 @@
   &emsp;
     <a href="#"><img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900.svg?&style=plastic&logo=amazonaws&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Geeks for Geeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="Figma" img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -71,23 +69,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
-
- ### 👉 Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/Codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode-000000.svg?style=plastic&logo=LeetCode&logoColor=#d16c06" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/Google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/CodinGame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
  ### 👉 Operating Systems
