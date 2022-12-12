@@ -22,25 +22,9 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-  &emsp;
-  <a href="https://www.w3schools.com/cpp" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp; 
-  <a href="https://www.tutorialspoint.com/swift/index.htm" target="_blank"> 
-    <img alt="Swift" src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=plastic&logo=swift&logoColor=white">
-  </a>
-  &emsp; 
-  <a href="https://www.w3schools.com/cs/index.php/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
-  </a> 
 </p>
 
 ### 👉 Frontend Development
@@ -68,8 +52,6 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900.svg?&style=plastic&logo=amazonaws&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
@@ -112,15 +94,9 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&&logo=android&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=plastic&&logo=ios&logoColor=white"></a>	  
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Chrome%20OS-3d89fc?style=plastic&&logo=google%20chrome&logoColor=white"></a>
 </p>
