@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/-https://github.com/Qiaochu1015-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Qiaochu1015)
 
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50>  About me
+## About me
 
 - 🔭 &nbsp;Always learning new things` and I love using Software as a solution for every `Problem`.
 - 🤔 &nbsp;`Exploring new technologies` and `developing software solutions and quick hacks`.
