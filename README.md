@@ -57,7 +57,7 @@
   &emsp;
     <a href="#"><img alt="Geeks for Geeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Figma" img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Figma" img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
